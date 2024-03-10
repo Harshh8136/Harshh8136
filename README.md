@@ -69,7 +69,7 @@
 <br>     
      
      
-![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=lomna21&show_icons=true&theme=dark&count_private=true&include_all_commits=true)    
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshh8136&show_icons=true&theme=dark&count_private=true&include_all_commits=true)    
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshh8136&show_icons=true&locale=en&layout=compact&theme=dark" alt="Harsh" /></p>
 
