@@ -1,7 +1,7 @@
-<h1 align="center">Hi there! I'm Anmol Singh 👋 </h1>
+<h1 align="center">Hi there! I'm Harsh Singh 👋 </h1>
 
 
-<img align = "right" width= 400px height=300px src = "https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align = "right" width= 400px height=300px src = "https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 
 <h1 align="center">About me! 🚀</h1>
@@ -59,9 +59,9 @@
 <br />
 <br>
 
-[<img align="center" alt="Anmol | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="center" alt="Anmol | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
-[<img align="center" alt="Anmol | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>][gmail]
+[<img align="center" alt="Harsh | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="center" alt="Harsh | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
+[<img align="center" alt="Harsh | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>][gmail]
 </h1>
 
 <h1 align="center">Github Stats 📈
@@ -71,10 +71,10 @@
      
 ![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=lomna21&show_icons=true&theme=dark&count_private=true&include_all_commits=true)    
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lomna21&show_icons=true&locale=en&layout=compact&theme=dark" alt="lomna21" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshh8136&show_icons=true&locale=en&layout=compact&theme=dark" alt="Harsh" /></p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lomna21&label=Profile%20views&color=0e75b6&style=flat" alt="lomna21" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshh8136&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh" /> </p>
      
 
 [linkedin]: [https://www.linkedin.com/in/rohini-rao-39ab291a4/](https://www.linkedin.com/in/anmol-singh-4b1490225/)
